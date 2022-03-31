@@ -1,37 +1,52 @@
-## Welcome to GitHub Pages
+<div>
+<table border="0">
+  <tr>
+    <td width="75%">
+      <h1>Jin Wang</h1>
+      <p><b>工程博士生</b></p>
+      <p><b>天津大学智能计算学部</b></p>
+      <p><b>邮箱：jim_wang2014@163.com</b></p>
+      <p><b>地址：天津市</b></p>
+      <p><a href="/index-en.html">English Version</a></p>
+    </td>
+    <td width="25%">
+      <img src="/zhengjianzhao.jpg" width="100%">
+    </td>
+  </tr>
+</table>
+</div>
 
-You can use the [editor on GitHub](https://github.com/FourWinds021/fourwindsand77.github.com/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+---
+<!-- 
+Jin，男，个人简介个人简介个人简介个人简介个人简介个人简介个人简介个人简介个人简介个人简介个人简介个人简介个人简介个人简介个人简介个人简介个人简介个人简介个人简介个人简介个人简介个人简介个人简介个人简介 -->
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+---
+<!-- 
+### 最新消息
+1. 消息1××× -->
 
-### Markdown
+### 研究方向
+- 多模态数据融合（多模态视频分析、自动驾驶多模态数据融合及应用）
+- 分布式深度学习框架（分布式并行、自动并行、联邦优化框架）
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+<!-- ### 荣誉奖励
+- 奖学金
+- 荣誉称号
+- 比赛获奖
 
-```markdown
-Syntax highlighted code block
+### 项目研究
+#### 公司/学校/研究所（2013.9~2017.6）
+- **项目1**  
 
-# Header 1
-## Header 2
-### Header 3
+- **项目2**  
+项目描述 -->
 
-- Bulleted
-- List
+#### 学习经历
+- **2019.9-至今：天津大学智能计算学部在职工程博士生**
+- **2014.7-2017.4：北京邮电大学 信息与通信工程 硕士** 
+- **2010.7-2014.6：电子科技大学 电子科学与技术 本科**   
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/FourWinds021/fourwindsand77.github.com/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+#### 工作学习经历
+- **2020.7-至今：鹏城实验室 算法工程师**
+- **2017.12-2020.6：提升政府治理能力大数据应用技术国家工程实验室**
+- **2016.11-2017.12：理光软件研究所 算法工程师**  
