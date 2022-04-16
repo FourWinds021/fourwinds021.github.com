@@ -6,7 +6,7 @@
       <p><b>Eng.D</b></p>
       <p><b>Tianjin University</b></p>
       <p><b>Email：jim_wang2014@163.com</b></p>
-      <p><b>Address：天津市</b></p>
+      <p><b>Address：Shenzhen, China</b></p>
 <!--       <p><a href="/index-en.html">English Version</a></p> -->
     </td>
     <td width="25%">
