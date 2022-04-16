@@ -3,8 +3,8 @@
   <tr>
     <td width="75%">
       <h1>Jin Wang</h1>
-      <p><b>Eng.D</b></p>
-      <p><b>Tianjin University</b></p>
+      <p><b>Eng.D, Tianjin University</b></p>
+<!--       <p><b>Tianjin University</b></p> -->
       <p><b>Email：jim_wang2014@163.com</b></p>
       <p><b>Address：Shenzhen, China</b></p>
 <!--       <p><a href="/index-en.html">English Version</a></p> -->
