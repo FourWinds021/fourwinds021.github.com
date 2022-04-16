@@ -3,11 +3,11 @@
   <tr>
     <td width="75%">
       <h1>Jin Wang</h1>
-      <p><b>工程博士生</b></p>
-      <p><b>天津大学智能计算学部</b></p>
-      <p><b>邮箱：jim_wang2014@163.com</b></p>
-      <p><b>地址：天津市</b></p>
-      <p><a href="/index-en.html">English Version</a></p>
+      <p><b>Eng.D</b></p>
+      <p><b>Tianjin University</b></p>
+      <p><b>Email：jim_wang2014@163.com</b></p>
+      <p><b>Address：天津市</b></p>
+<!--       <p><a href="/index-en.html">English Version</a></p> -->
     </td>
     <td width="25%">
       <img src="/zhengjianzhao.jpg" width="100%">
@@ -17,36 +17,21 @@
 </div>
 
 ---
-<!-- 
-Jin，男，个人简介个人简介个人简介个人简介个人简介个人简介个人简介个人简介个人简介个人简介个人简介个人简介个人简介个人简介个人简介个人简介个人简介个人简介个人简介个人简介个人简介个人简介个人简介个人简介 -->
+
 
 ---
-<!-- 
-### 最新消息
-1. 消息1××× -->
 
-### 研究方向
-- 多模态数据融合（多模态视频分析、自动驾驶多模态数据融合及应用）
-- 分布式深度学习框架（分布式并行、自动并行、联邦优化框架）
+### Research Domain
+- Multi-modal Data Fusion: image-text matching, video captioning, 3D Object Detection based on multi-modal data fusion in Auto-driving scence.
+- Distributed Deep Learning: Distrbuted training framework, Auto-parallel training of deep learning method, Federal learning framework in cross-clound
 
-<!-- ### 荣誉奖励
-- 奖学金
-- 荣誉称号
-- 比赛获奖
 
-### 项目研究
-#### 公司/学校/研究所（2013.9~2017.6）
-- **项目1**  
+#### Education Experience
+- **2019.9-Today：Tianjin University， Eng.D**
+- **2014.7-2017.4：BUPT, Master** 
+- **2010.7-2014.6：UESTC, Bachelor**   
 
-- **项目2**  
-项目描述 -->
-
-#### 学习经历
-- **2019.9-至今：天津大学智能计算学部在职工程博士生**
-- **2014.7-2017.4：北京邮电大学 信息与通信工程 硕士** 
-- **2010.7-2014.6：电子科技大学 电子科学与技术 本科**   
-
-#### 工作学习经历
-- **2020.7-至今：鹏城实验室 算法工程师**
-- **2017.12-2020.6：提升政府治理能力大数据应用技术国家工程实验室**
-- **2016.11-2017.12：理光软件研究所 算法工程师**  
+#### Work Experience
+- **2020.7-Today：Peng Cheng Laboratory, Algorithm Engineer**
+- **2017.12-2020.6：CETC Big Data Research Academy**
+- **2016.11-2017.12：RICOH Beijing Research Institute**  
