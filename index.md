@@ -27,7 +27,7 @@
 
 
 #### Education Experience
-- **2019.9-Today：Tianjin University， Eng.D**
+- **2019.9-Today：Tianjin University， Eng Ph.D**
 - **2014.7-2017.4：BUPT, Master** 
 - **2010.7-2014.6：UESTC, Bachelor**   
 
